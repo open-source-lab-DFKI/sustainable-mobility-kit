@@ -8,7 +8,7 @@ The Kit provides a snapshot of the complexity of 21st century urban transport sy
 
 The cards are based on the Sustainable Open Mobility Taxonomy research and interactive visualization, which includes best practice examples for each topic. The taxonomy can be explored here.
 
-![Sustainable mobility kit](/home/lefterav/PycharmProjects/sustainable-mobility-kit/sustainable-mobility-kit-front.png)
+![Sustainable mobility kit](https://github.com/open-source-lab-DFKI/sustainable-mobility-kit/raw/master/sustainable-mobility-kit-front.png)
  
 **Design your future**
 
